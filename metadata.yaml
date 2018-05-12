@@ -1,0 +1,34 @@
+_repo: The-Reminiscences-of-an-Irish-Land-Agent_16450
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hussey, Samuel Murray
+    birthdate: 1824
+    gutenberg_agent_id: '6722'
+    url: http://www.gutenberg.org/2009/agents/6722
+  editor:
+    agent_name: Gordon, Home
+    alias: Gordon, Home Seton Charles Montagu, Sir, Bart.
+    birthdate: 1871
+    deathdate: 1956
+    gutenberg_agent_id: '2802'
+    url: http://www.gutenberg.org/2009/agents/2802
+description: ''
+gutenberg_issued: '2005-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16450'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hussey, Samuel Murray, 1824-'
+- !lcc 'DA'
+- !lcsh 'Ireland -- History -- 1837-1901'
+- !lcsh 'Country life -- Ireland'
+title: The Reminiscences of an Irish Land Agent
+url: http://www.gutenberg.org/ebooks/16450
